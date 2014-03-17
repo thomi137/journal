@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #FuelPHP
 
 * Version: 1.7
@@ -36,3 +37,7 @@ are up to scratch, we will notice you, and will ask you to become a team member.
 * Jelmer Schreuder - Developer ([http://jelmerschreuder.nl/](http://jelmerschreuder.nl/))
 * Phil Sturgeon - Developer ([http://philsturgeon.co.uk](http://philsturgeon.co.uk))
 * Dan Horrigan - Founder, Developer ([http://dhorrigan.com](http://dhorrigan.com))
+=======
+journal
+=======
+>>>>>>> dd38f600d8982bc6db861bab6fc9c14ae2f3e087
